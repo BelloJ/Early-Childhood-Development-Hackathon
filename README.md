@@ -9,6 +9,4 @@ Time frame: 18th August-31 August 2022 (submission of report, code and slide dec
 
 Output: A brief summary report (details to be fleshed out upon agreement) and the presentation of findings to the project team in September (10 minutes). You will be free to explore the data using any method. Depending on the quality of the work, there may be further work opportunities, the opportunity to present to a broader stakeholder group and opportunities to publish.
 
-First prize: Up to R10 000
-Second prize: Up to R6 000
-Third prize: Up to R4 000
+
